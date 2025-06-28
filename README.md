@@ -1,4 +1,4 @@
-# 📅 Event Scheduler System (Flask + JSON + Pytest)
+#  Event Scheduler System (Flask + JSON + Pytest)
 
 A simple and extensible event scheduler backend using **Python Flask**, supporting CRUD operations, reminders, email notifications, recurring events, and search functionality — all with data persistence using a JSON file.
 
