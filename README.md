@@ -17,4 +17,4 @@ A simple and extensible event scheduler backend using **Python Flask**, supporti
 
 ---
 ## 🖼️ Screenshot
-
+![Event Scheduler UI](images/screenshot.jpg)
