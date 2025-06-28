@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1c0614f9-4c39-4d8f-9413-749479e5847b",
+        "title": "Demo Call",
+        "description": "Call with client",
+        "start_time": "2025-06-28T16:00:00",
+        "end_time": "2025-07-01T17:00:00"
+    },
+    {
+        "id": "27f36e70-0ea2-48b0-b052-46d2697abfdf",
+        "title": "Demo Call",
+        "description": "Call with client",
+        "start_time": "2025-06-28T16:00:00",
+        "end_time": "2025-06-28T17:00:00"
+    }
+]
