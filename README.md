@@ -17,4 +17,6 @@ A simple and extensible event scheduler backend using **Python Flask**, supporti
 
 ---
 ## 🖼️ Screenshot
-![Event Scheduler UI](images/screenshot.jpg)
+Event Reminder on Email
+![Screenshot 1](https://github.com/user-attachments/assets/dd5a89e4-8b5e-45fe-b617-18ef419685c9)
+
