@@ -17,5 +17,4 @@ A simple and extensible event scheduler backend using **Python Flask**, supporti
 
 ---
 ## 🖼️ Screenshot
-![Reminder on Email](![WhatsApp Image 2025-06-28 at 15 52 36_f0766311](https://github.com/user-attachments/assets/44402429-ea77-4631-8282-1d8e2be32974)
-)
+
